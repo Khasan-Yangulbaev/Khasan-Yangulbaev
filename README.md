@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Брат Мансур(БЕЛЫЙ), [10.03.2022 01:28]
 ## I'm Full-Stack JS Developer
 
 ### My Technology stack:
